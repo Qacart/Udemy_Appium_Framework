@@ -1,0 +1,10 @@
+{
+  "validUser" : {
+    "email": "hatem@qacart.com",
+    "password": "Test123!"
+  } ,
+  "inValidUser" : {
+    "email": "hatem@qacart.com",
+    "password": "wrongPassword"
+  }
+}

@@ -1,0 +1,13 @@
+
+
+
+
+<suite name="QAcart to do application">
+    <test name="resgression test">
+        <parameter name="platformName" value="Android" />
+        <parameter name="deviceName" value="Hatem" />
+        <classes>
+            <class name="com.qacart.testcases.LoginScreenTestCases" />
+        </classes>
+    </test>
+</suite>
